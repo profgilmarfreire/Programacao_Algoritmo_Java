@@ -1,0 +1,21 @@
+#Arquivos compilados do java
+
+*.class
+
+#Pastas de copilação
+
+bin/
+out/
+target/
+
+#VS Code
+.vscode/
+vscode/
+
+# Sistema Operacional
+
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log

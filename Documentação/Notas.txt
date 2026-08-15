@@ -1,0 +1,4 @@
+System.out.print  = Comando para imprimir na tela
+ln = Pular linha
+
+System.out.println

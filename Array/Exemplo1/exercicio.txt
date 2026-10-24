@@ -1,0 +1,25 @@
+ATIVIDADE com ARRAY — Cadastro e análise de nomes para uma rede social
+Nível: Fácil | Foco: Arrays, Strings, Scanner e Loops While / Do While / For
+Enunciado
+Uma nova rede social está desenvolvendo um sistema de cadastro de usuários. Para facilitar a identificação dos perfis, o sistema precisa analisar os nomes cadastrados.
+Você foi contratado para desenvolver um programa em Java que receba os nomes de 5 usuários e apresente algumas informações sobre cada um deles.
+Requisitos do programa
+1. Cadastro dos usuários
+● Utilize Scanner para solicitar o nome de 5 usuários.
+● Armazene os nomes em um array de String.
+● Utilize um laço de repetição para realizar os cadastros.
+2. Menu de opções
+Após cadastrar os usuários, apresente o seguinte menu:
+===== ANALISADOR DE PERFIS =====
+1 - Exibir nomes em letras maiúsculas
+2 - Exibir nomes em letras minúsculas
+3 - Exibir a quantidade de letras de cada nome
+4 - Pesquisar um nome
+5 - Exibir a primeira letra de cada nome
+0 - Encerrar programa
+Escolha uma opção:
+Utilize switch/case para controlar as opções.
+Em cada opção, o sistema deve executar o que o usuario pediu e depois perguntar se ele quer realizar mais alguma ação ou encerrar o programa.
+3. Como será a entrega?
+Você deverá, após finalizar o seu código, criar um arquivo word, e printar as principais telas do seu código. Ao final do print, você deverá copiar o seu código no word. A entrega será via teams, você deverá anexar o documento word até o dia 30/10 às 18:00h.
+Dúvidas mande mensagem para o seu professor. Bom trabalho a todos!
